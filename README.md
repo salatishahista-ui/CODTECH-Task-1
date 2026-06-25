@@ -1,7 +1,6 @@
 
-Name: Tanushka Kumbhar. <br>
+Name: Shahista Salati. <br>
 Company: CODTECH IT SOLUTIONS. <br>
-ID: CT08DS6675. <br>
 Domain: Web Development. <br>
 Duration: August 5th to September 5th 2024. <br>
 Mentor: Muzammil Ahmed. <br>
